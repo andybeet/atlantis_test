@@ -82,7 +82,17 @@
 # MB Microphtybenthos
 # SG Seagrass
 # BC Benthic Carnivore
-
+# ZG Gelatinous zooplankton
+# PL Diatom
+# DF Dinoflagellates
+# PS Pico-phytoplankton
+# ZM Mesozooplankton
+# ZS Microzooplankton
+# PB Pelagic Bacteria
+# BB Sediment Bacteria
+# BO Meiobenthos
+# DL Labile detritus
+# DR Refractory detritus
 # DC Carrion
 
 # Dissolved organic nitrogen      DON mg N m-3

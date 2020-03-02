@@ -5,8 +5,7 @@
 # Those marked with a + also have Si pool too. Those marked special have three pools, a sructural N
 # (mg N individual-1), reserve N (mg N individual-1) and numbers (per box)
 # Code Group
-
-# MAC Atlantic mackerel
+# MAK Atlantic mackerel
 # HER Atlantic herring
 # WHK White hake
 # BLF Bluefish
@@ -18,13 +17,14 @@
 # PLA American plaice
 # FOU Fourspot flounder
 # FLA Other flatfish
-# BFT I hate Atlantic bluefin tuna
+# BFT Atlantic bluefin tuna
 # TUN Other tunas
 # BIL Billfish
 # MPF Migratory mesopelagic fish 
 # BUT Butterfish
 # ANC Anchovies
 # BPF Other benthopelagic fish
+# GOO Monkfish
 # MEN Atlantic menhaden
 # FDE Shallow demersal fish
 # COD Atlantic cod

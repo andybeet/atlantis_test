@@ -7,9 +7,6 @@ nhdfiles 1
 hd0.name /tsfiles/flowOutAll_fix_20180402.nc
 # Bottom stress
 
-#############################################
-# Point source\sink lists
-npointss 0
 
 pss0.name GBK_SED
 pss0.location 1234274.466 3098307.516 -40

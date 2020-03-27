@@ -9,7 +9,7 @@
 
 Atlantis Neus file repository version not decided upon yet
 
-Make git comments
+Make git comments. make more comment
 
 We should also add some useful git commands for use on the command line
 

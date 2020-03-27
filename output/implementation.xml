@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<AtlantisManagementImplementation>
+  <AttributeSubGroup AttributeGroupName="Fishing_Catchability_Change" AttributeDescription="Changes in catchability through time">
+    <Attribute AttributeName="NumTACChanges" AttributeDescription="Number of changes of fishing catchability." AttributeType="IntegerArray" ArrayLength="28">
+      <GroupValue GroupName="MAK" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="HER" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="WHK" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BLF" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="WPF" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="SUF" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="WIF" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="WTF" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="FOU" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="HAL" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="PLA" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="FLA" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BFT" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="TUN" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BIL" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="MPF" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BUT" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BPF" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="ANC" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="GOO" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="MEN" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="FDE" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="COD" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="SHK" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="OHK" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="POL" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="RHK" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BSB" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="SCU" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="TYL" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="RED" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="OPT" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="SAL" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="DRM" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="STB" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="TAU" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="WOL" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="SDF" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="FDF" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="HAD" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="YTF" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="DOG" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="SMO" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="SSH" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="DSH" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BLS" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="POR" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="PSH" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="WSK" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="LSK" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="SK" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="SB" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="PIN" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="REP" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="RWH" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BWH" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="SWH" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="TWH" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="INV" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="LSQ" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="ISQ" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="SCA" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="QHG" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="CLA" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BFF" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BG" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="LOB" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="RCB" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BMS" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="NSH" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="OSH" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="ZL" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BD" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="MA" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="MB" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="SG" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BC" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="ZG" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="PL" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="DF" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="PS" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="ZM" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="ZS" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="PB" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BB" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="BO" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="DL" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="DR" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <GroupValue GroupName="DC" AttributeValue="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    </Attribute>
+    <Attribute AttributeName="ChangeStart" AttributeDescription="Arrays to indicate when each change in catchability begins (days from run start).&#10;There must be as many entries in this array as the MAXIMUM number of changes in catchability across all groups (e.g. if the highest number of changes for a single fishery by a single group is 6 then there must be 6 entries etc)." AttributeUnits="d" AttributeType="IntegerArray" ArrayLength="">
+      <GroupValue GroupName="MAK" AttributeValue="0"/>
+      <GroupValue GroupName="HER" AttributeValue="0"/>
+      <GroupValue GroupName="WHK" AttributeValue="0"/>
+      <GroupValue GroupName="BLF" AttributeValue="0"/>
+      <GroupValue GroupName="WPF" AttributeValue="0"/>
+      <GroupValue GroupName="SUF" AttributeValue="0"/>
+      <GroupValue GroupName="WIF" AttributeValue="0"/>
+      <GroupValue GroupName="WTF" AttributeValue="0"/>
+      <GroupValue GroupName="FOU" AttributeValue="0"/>
+      <GroupValue GroupName="HAL" AttributeValue="0"/>
+      <GroupValue GroupName="PLA" AttributeValue="0"/>
+      <GroupValue GroupName="FLA" AttributeValue="0"/>
+      <GroupValue GroupName="BFT" AttributeValue="0"/>
+      <GroupValue GroupName="TUN" AttributeValue="0"/>
+      <GroupValue GroupName="BIL" AttributeValue="0"/>
+      <GroupValue GroupName="MPF" AttributeValue="0"/>
+      <GroupValue GroupName="BUT" AttributeValue="0"/>
+      <GroupValue GroupName="BPF" AttributeValue="0"/>
+      <GroupValue GroupName="ANC" AttributeValue="0"/>
+      <GroupValue GroupName="GOO" AttributeValue="0"/>
+      <GroupValue GroupName="MEN" AttributeValue="0"/>
+      <GroupValue GroupName="FDE" AttributeValue="0"/>
+      <GroupValue GroupName="COD" AttributeValue="0"/>
+      <GroupValue GroupName="SHK" AttributeValue="0"/>
+      <GroupValue GroupName="OHK" AttributeValue="0"/>
+      <GroupValue GroupName="POL" AttributeValue="0"/>
+      <GroupValue GroupName="RHK" AttributeValue="0"/>
+      <GroupValue GroupName="BSB" AttributeValue="0"/>
+      <GroupValue GroupName="SCU" AttributeValue="0"/>
+      <GroupValue GroupName="TYL" AttributeValue="0"/>
+      <GroupValue GroupName="RED" AttributeValue="0"/>
+      <GroupValue GroupName="OPT" AttributeValue="0"/>
+      <GroupValue GroupName="SAL" AttributeValue="0"/>
+      <GroupValue GroupName="DRM" AttributeValue="0"/>
+      <GroupValue GroupName="STB" AttributeValue="0"/>
+      <GroupValue GroupName="TAU" AttributeValue="0"/>
+      <GroupValue GroupName="WOL" AttributeValue="0"/>
+      <GroupValue GroupName="SDF" AttributeValue="0"/>
+      <GroupValue GroupName="FDF" AttributeValue="0"/>
+      <GroupValue GroupName="HAD" AttributeValue="0"/>
+      <GroupValue GroupName="YTF" AttributeValue="0"/>
+      <GroupValue GroupName="DOG" AttributeValue="0"/>
+      <GroupValue GroupName="SMO" AttributeValue="0"/>
+      <GroupValue GroupName="SSH" AttributeValue="0"/>
+      <GroupValue GroupName="DSH" AttributeValue="0"/>
+      <GroupValue GroupName="BLS" AttributeValue="0"/>
+      <GroupValue GroupName="POR" AttributeValue="0"/>
+      <GroupValue GroupName="PSH" AttributeValue="0"/>
+      <GroupValue GroupName="WSK" AttributeValue="0"/>
+      <GroupValue GroupName="LSK" AttributeValue="0"/>
+      <GroupValue GroupName="SK" AttributeValue="0"/>
+      <GroupValue GroupName="SB" AttributeValue="0"/>
+      <GroupValue GroupName="PIN" AttributeValue="0"/>
+      <GroupValue GroupName="REP" AttributeValue="0"/>
+      <GroupValue GroupName="RWH" AttributeValue="0"/>
+      <GroupValue GroupName="BWH" AttributeValue="0"/>
+      <GroupValue GroupName="SWH" AttributeValue="0"/>
+      <GroupValue GroupName="TWH" AttributeValue="0"/>
+      <GroupValue GroupName="INV" AttributeValue="0"/>
+      <GroupValue GroupName="LSQ" AttributeValue="0"/>
+      <GroupValue GroupName="ISQ" AttributeValue="0"/>
+      <GroupValue GroupName="SCA" AttributeValue="0"/>
+      <GroupValue GroupName="QHG" AttributeValue="0"/>
+      <GroupValue GroupName="CLA" AttributeValue="0"/>
+      <GroupValue GroupName="BFF" AttributeValue="0"/>
+      <GroupValue GroupName="BG" AttributeValue="0"/>
+      <GroupValue GroupName="LOB" AttributeValue="0"/>
+      <GroupValue GroupName="RCB" AttributeValue="0"/>
+      <GroupValue GroupName="BMS" AttributeValue="0"/>
+      <GroupValue GroupName="NSH" AttributeValue="0"/>
+      <GroupValue GroupName="OSH" AttributeValue="0"/>
+      <GroupValue GroupName="ZL" AttributeValue="0"/>
+      <GroupValue GroupName="BD" AttributeValue="0"/>
+      <GroupValue GroupName="MA" AttributeValue="0"/>
+      <GroupValue GroupName="MB" AttributeValue="0"/>
+      <GroupValue GroupName="SG" AttributeValue="0"/>
+      <GroupValue GroupName="BC" AttributeValue="0"/>
+      <GroupValue GroupName="ZG" AttributeValue="0"/>
+      <GroupValue GroupName="PL" AttributeValue="0"/>
+      <GroupValue GroupName="DF" AttributeValue="0"/>
+      <GroupValue GroupName="PS" AttributeValue="0"/>
+      <GroupValue GroupName="ZM" AttributeValue="0"/>
+      <GroupValue GroupName="ZS" AttributeValue="0"/>
+      <GroupValue GroupName="PB" AttributeValue="0"/>
+      <GroupValue GroupName="BB" AttributeValue="0"/>
+      <GroupValue GroupName="BO" AttributeValue="0"/>
+      <GroupValue GroupName="DL" AttributeValue="0"/>
+      <GroupValue GroupName="DR" AttributeValue="0"/>
+      <GroupValue GroupName="DC" AttributeValue="0"/>
+    </Attribute>
+    <Attribute AttributeName="ChangePeriod" AttributeDescription="Arrays to indicate period over which change in catchability occurs (days). &#10;There must be as many entries in this array as the MAXIMUM number of changes in catchability across all groups." AttributeUnits="d" AttributeType="IntegerArray" ArrayLength="">
+      <GroupValue GroupName="MAK" AttributeValue="1"/>
+      <GroupValue GroupName="HER" AttributeValue="1"/>
+      <GroupValue GroupName="WHK" AttributeValue="1"/>
+      <GroupValue GroupName="BLF" AttributeValue="1"/>
+      <GroupValue GroupName="WPF" AttributeValue="1"/>
+      <GroupValue GroupName="SUF" AttributeValue="1"/>
+      <GroupValue GroupName="WIF" AttributeValue="1"/>
+      <GroupValue GroupName="WTF" AttributeValue="1"/>
+      <GroupValue GroupName="FOU" AttributeValue="1"/>
+      <GroupValue GroupName="HAL" AttributeValue="1"/>
+      <GroupValue GroupName="PLA" AttributeValue="1"/>
+      <GroupValue GroupName="FLA" AttributeValue="1"/>
+      <GroupValue GroupName="BFT" AttributeValue="1"/>
+      <GroupValue GroupName="TUN" AttributeValue="1"/>
+      <GroupValue GroupName="BIL" AttributeValue="1"/>
+      <GroupValue GroupName="MPF" AttributeValue="1"/>
+      <GroupValue GroupName="BUT" AttributeValue="1"/>
+      <GroupValue GroupName="BPF" AttributeValue="1"/>
+      <GroupValue GroupName="ANC" AttributeValue="1"/>
+      <GroupValue GroupName="GOO" AttributeValue="1"/>
+      <GroupValue GroupName="MEN" AttributeValue="1"/>
+      <GroupValue GroupName="FDE" AttributeValue="1"/>
+      <GroupValue GroupName="COD" AttributeValue="1"/>
+      <GroupValue GroupName="SHK" AttributeValue="1"/>
+      <GroupValue GroupName="OHK" AttributeValue="1"/>
+      <GroupValue GroupName="POL" AttributeValue="1"/>
+      <GroupValue GroupName="RHK" AttributeValue="1"/>
+      <GroupValue GroupName="BSB" AttributeValue="1"/>
+      <GroupValue GroupName="SCU" AttributeValue="1"/>
+      <GroupValue GroupName="TYL" AttributeValue="1"/>
+      <GroupValue GroupName="RED" AttributeValue="1"/>
+      <GroupValue GroupName="OPT" AttributeValue="1"/>
+      <GroupValue GroupName="SAL" AttributeValue="1"/>
+      <GroupValue GroupName="DRM" AttributeValue="1"/>
+      <GroupValue GroupName="STB" AttributeValue="1"/>
+      <GroupValue GroupName="TAU" AttributeValue="1"/>
+      <GroupValue GroupName="WOL" AttributeValue="1"/>
+      <GroupValue GroupName="SDF" AttributeValue="1"/>
+      <GroupValue GroupName="FDF" AttributeValue="1"/>
+      <GroupValue GroupName="HAD" AttributeValue="1"/>
+      <GroupValue GroupName="YTF" AttributeValue="1"/>
+      <GroupValue GroupName="DOG" AttributeValue="1"/>
+      <GroupValue GroupName="SMO" AttributeValue="1"/>
+      <GroupValue GroupName="SSH" AttributeValue="1"/>
+      <GroupValue GroupName="DSH" AttributeValue="1"/>
+      <GroupValue GroupName="BLS" AttributeValue="1"/>
+      <GroupValue GroupName="POR" AttributeValue="1"/>
+      <GroupValue GroupName="PSH" AttributeValue="1"/>
+      <GroupValue GroupName="WSK" AttributeValue="1"/>
+      <GroupValue GroupName="LSK" AttributeValue="1"/>
+      <GroupValue GroupName="SK" AttributeValue="1"/>
+      <GroupValue GroupName="SB" AttributeValue="1"/>
+      <GroupValue GroupName="PIN" AttributeValue="1"/>
+      <GroupValue GroupName="REP" AttributeValue="1"/>
+      <GroupValue GroupName="RWH" AttributeValue="1"/>
+      <GroupValue GroupName="BWH" AttributeValue="1"/>
+      <GroupValue GroupName="SWH" AttributeValue="1"/>
+      <GroupValue GroupName="TWH" AttributeValue="1"/>
+      <GroupValue GroupName="INV" AttributeValue="1"/>
+      <GroupValue GroupName="LSQ" AttributeValue="1"/>
+      <GroupValue GroupName="ISQ" AttributeValue="1"/>
+      <GroupValue GroupName="SCA" AttributeValue="1"/>
+      <GroupValue GroupName="QHG" AttributeValue="1"/>
+      <GroupValue GroupName="CLA" AttributeValue="1"/>
+      <GroupValue GroupName="BFF" AttributeValue="1"/>
+      <GroupValue GroupName="BG" AttributeValue="1"/>
+      <GroupValue GroupName="LOB" AttributeValue="1"/>
+      <GroupValue GroupName="RCB" AttributeValue="1"/>
+      <GroupValue GroupName="BMS" AttributeValue="1"/>
+      <GroupValue GroupName="NSH" AttributeValue="1"/>
+      <GroupValue GroupName="OSH" AttributeValue="1"/>
+      <GroupValue GroupName="ZL" AttributeValue="1"/>
+      <GroupValue GroupName="BD" AttributeValue="1"/>
+      <GroupValue GroupName="MA" AttributeValue="1"/>
+      <GroupValue GroupName="MB" AttributeValue="1"/>
+      <GroupValue GroupName="SG" AttributeValue="1"/>
+      <GroupValue GroupName="BC" AttributeValue="1"/>
+      <GroupValue GroupName="ZG" AttributeValue="1"/>
+      <GroupValue GroupName="PL" AttributeValue="1"/>
+      <GroupValue GroupName="DF" AttributeValue="1"/>
+      <GroupValue GroupName="PS" AttributeValue="1"/>
+      <GroupValue GroupName="ZM" AttributeValue="1"/>
+      <GroupValue GroupName="ZS" AttributeValue="1"/>
+      <GroupValue GroupName="PB" AttributeValue="1"/>
+      <GroupValue GroupName="BB" AttributeValue="1"/>
+      <GroupValue GroupName="BO" AttributeValue="1"/>
+      <GroupValue GroupName="DL" AttributeValue="1"/>
+      <GroupValue GroupName="DR" AttributeValue="1"/>
+      <GroupValue GroupName="DC" AttributeValue="1"/>
+    </Attribute>
+    <Attribute AttributeName="ChangeMult" AttributeDescription="Arrays to indicate new level of catchability for that group. &#10;It a a multiplication factor relative to the original level of catchability. There must be as many entries in this array as the MAXIMUM number of changes in catchability across all groups." AttributeType="FloatArray" ArrayLength="">
+      <GroupValue GroupName="MAK" AttributeValue="1"/>
+      <GroupValue GroupName="HER" AttributeValue="1"/>
+      <GroupValue GroupName="WHK" AttributeValue="1"/>
+      <GroupValue GroupName="BLF" AttributeValue="1"/>
+      <GroupValue GroupName="WPF" AttributeValue="1"/>
+      <GroupValue GroupName="SUF" AttributeValue="1"/>
+      <GroupValue GroupName="WIF" AttributeValue="1"/>
+      <GroupValue GroupName="WTF" AttributeValue="1"/>
+      <GroupValue GroupName="FOU" AttributeValue="1"/>
+      <GroupValue GroupName="HAL" AttributeValue="1"/>
+      <GroupValue GroupName="PLA" AttributeValue="1"/>
+      <GroupValue GroupName="FLA" AttributeValue="1"/>
+      <GroupValue GroupName="BFT" AttributeValue="1"/>
+      <GroupValue GroupName="TUN" AttributeValue="1"/>
+      <GroupValue GroupName="BIL" AttributeValue="1"/>
+      <GroupValue GroupName="MPF" AttributeValue="1"/>
+      <GroupValue GroupName="BUT" AttributeValue="1"/>
+      <GroupValue GroupName="BPF" AttributeValue="1"/>
+      <GroupValue GroupName="ANC" AttributeValue="1"/>
+      <GroupValue GroupName="GOO" AttributeValue="1"/>
+      <GroupValue GroupName="MEN" AttributeValue="1"/>
+      <GroupValue GroupName="FDE" AttributeValue="1"/>
+      <GroupValue GroupName="COD" AttributeValue="1"/>
+      <GroupValue GroupName="SHK" AttributeValue="1"/>
+      <GroupValue GroupName="OHK" AttributeValue="1"/>
+      <GroupValue GroupName="POL" AttributeValue="1"/>
+      <GroupValue GroupName="RHK" AttributeValue="1"/>
+      <GroupValue GroupName="BSB" AttributeValue="1"/>
+      <GroupValue GroupName="SCU" AttributeValue="1"/>
+      <GroupValue GroupName="TYL" AttributeValue="1"/>
+      <GroupValue GroupName="RED" AttributeValue="1"/>
+      <GroupValue GroupName="OPT" AttributeValue="1"/>
+      <GroupValue GroupName="SAL" AttributeValue="1"/>
+      <GroupValue GroupName="DRM" AttributeValue="1"/>
+      <GroupValue GroupName="STB" AttributeValue="1"/>
+      <GroupValue GroupName="TAU" AttributeValue="1"/>
+      <GroupValue GroupName="WOL" AttributeValue="1"/>
+      <GroupValue GroupName="SDF" AttributeValue="1"/>
+      <GroupValue GroupName="FDF" AttributeValue="1"/>
+      <GroupValue GroupName="HAD" AttributeValue="1"/>
+      <GroupValue GroupName="YTF" AttributeValue="1"/>
+      <GroupValue GroupName="DOG" AttributeValue="1"/>
+      <GroupValue GroupName="SMO" AttributeValue="1"/>
+      <GroupValue GroupName="SSH" AttributeValue="1"/>
+      <GroupValue GroupName="DSH" AttributeValue="1"/>
+      <GroupValue GroupName="BLS" AttributeValue="1"/>
+      <GroupValue GroupName="POR" AttributeValue="1"/>
+      <GroupValue GroupName="PSH" AttributeValue="1"/>
+      <GroupValue GroupName="WSK" AttributeValue="1"/>
+      <GroupValue GroupName="LSK" AttributeValue="1"/>
+      <GroupValue GroupName="SK" AttributeValue="1"/>
+      <GroupValue GroupName="SB" AttributeValue="1"/>
+      <GroupValue GroupName="PIN" AttributeValue="1"/>
+      <GroupValue GroupName="REP" AttributeValue="1"/>
+      <GroupValue GroupName="RWH" AttributeValue="1"/>
+      <GroupValue GroupName="BWH" AttributeValue="1"/>
+      <GroupValue GroupName="SWH" AttributeValue="1"/>
+      <GroupValue GroupName="TWH" AttributeValue="1"/>
+      <GroupValue GroupName="INV" AttributeValue="1"/>
+      <GroupValue GroupName="LSQ" AttributeValue="1"/>
+      <GroupValue GroupName="ISQ" AttributeValue="1"/>
+      <GroupValue GroupName="SCA" AttributeValue="1"/>
+      <GroupValue GroupName="QHG" AttributeValue="1"/>
+      <GroupValue GroupName="CLA" AttributeValue="1"/>
+      <GroupValue GroupName="BFF" AttributeValue="1"/>
+      <GroupValue GroupName="BG" AttributeValue="1"/>
+      <GroupValue GroupName="LOB" AttributeValue="1"/>
+      <GroupValue GroupName="RCB" AttributeValue="1"/>
+      <GroupValue GroupName="BMS" AttributeValue="1"/>
+      <GroupValue GroupName="NSH" AttributeValue="1"/>
+      <GroupValue GroupName="OSH" AttributeValue="1"/>
+      <GroupValue GroupName="ZL" AttributeValue="1"/>
+      <GroupValue GroupName="BD" AttributeValue="1"/>
+      <GroupValue GroupName="MA" AttributeValue="1"/>
+      <GroupValue GroupName="MB" AttributeValue="1"/>
+      <GroupValue GroupName="SG" AttributeValue="1"/>
+      <GroupValue GroupName="BC" AttributeValue="1"/>
+      <GroupValue GroupName="ZG" AttributeValue="1"/>
+      <GroupValue GroupName="PL" AttributeValue="1"/>
+      <GroupValue GroupName="DF" AttributeValue="1"/>
+      <GroupValue GroupName="PS" AttributeValue="1"/>
+      <GroupValue GroupName="ZM" AttributeValue="1"/>
+      <GroupValue GroupName="ZS" AttributeValue="1"/>
+      <GroupValue GroupName="PB" AttributeValue="1"/>
+      <GroupValue GroupName="BB" AttributeValue="1"/>
+      <GroupValue GroupName="BO" AttributeValue="1"/>
+      <GroupValue GroupName="DL" AttributeValue="1"/>
+      <GroupValue GroupName="DR" AttributeValue="1"/>
+      <GroupValue GroupName="DC" AttributeValue="1"/>
+    </Attribute>
+  </AttributeSubGroup>
+</AtlantisManagementImplementation>

@@ -7,7 +7,9 @@
 
 <!-- badges: end -->
 
-Atlantis Neus file repository for testing
+Atlantis Neus file repository v1.5
+
+We should also add some useful git commands for use on the command line
 
 Physics based on Doppio Roms model hindcast 2008-2010 downscaled to NEUS
 boxes.

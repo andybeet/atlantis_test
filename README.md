@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-Atlantis Neus file repository v1.5
+Atlantis Neus file repository for testing
 
 Physics based on Doppio Roms model hindcast 2008-2010 downscaled to NEUS
 boxes.

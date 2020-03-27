@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-Atlantis Neus file repository v1.5
+Atlantis Neus file repository version not decided upon yet
 
 We should also add some useful git commands for use on the command line
 

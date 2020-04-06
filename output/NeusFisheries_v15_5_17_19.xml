@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<AttributeGroup AttributeGroupName="AtlantisFisheries">
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="midwcISQ"/>
+    <Attribute AttributeName="Index" AttributeValue="0"/>
+    <Attribute AttributeName="Name" AttributeValue="Midwater trawl on small pelagics"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="midwcLSQ"/>
+    <Attribute AttributeName="Index" AttributeValue="1"/>
+    <Attribute AttributeName="Name" AttributeValue="Scallop dredge"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="jigISQ"/>
+    <Attribute AttributeName="Index" AttributeValue="2"/>
+    <Attribute AttributeName="Name" AttributeValue="Surfclam / ocean quahog Dredge"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="jigLSQ"/>
+    <Attribute AttributeName="Index" AttributeValue="3"/>
+    <Attribute AttributeName="Name" AttributeValue="Demersal gillnet on other deep demersals"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="dredgeSCA"/>
+    <Attribute AttributeName="Index" AttributeValue="4"/>
+    <Attribute AttributeName="Name" AttributeValue="Pelagic line on tuna and sharks"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="trapRCB"/>
+    <Attribute AttributeName="Index" AttributeValue="5"/>
+    <Attribute AttributeName="Name" AttributeValue="Purse seine on small pelagics"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="dtrawlRCB"/>
+    <Attribute AttributeName="Index" AttributeValue="6"/>
+    <Attribute AttributeName="Name" AttributeValue="Lobster traps"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="dtrawlISQ"/>
+    <Attribute AttributeName="Index" AttributeValue="7"/>
+    <Attribute AttributeName="Name" AttributeValue="Goosefish demersal trawl"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="dtrawlLSQ"/>
+    <Attribute AttributeName="Index" AttributeValue="8"/>
+    <Attribute AttributeName="Name" AttributeValue="Demersal trawl on cephalopods"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="dtrawlSHK"/>
+    <Attribute AttributeName="Index" AttributeValue="9"/>
+    <Attribute AttributeName="Name" AttributeValue="Demersal trawl on other deep demersals"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="dtrawlHAD"/>
+    <Attribute AttributeName="Index" AttributeValue="10"/>
+    <Attribute AttributeName="Name" AttributeValue="Demersal trawl on shallow demersals"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="dseineSHK"/>
+    <Attribute AttributeName="Index" AttributeValue="11"/>
+    <Attribute AttributeName="Name" AttributeValue="Midwater Trawl - international fleet"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="dlineBLF"/>
+    <Attribute AttributeName="Index" AttributeValue="12"/>
+    <Attribute AttributeName="Name" AttributeValue="Line fishery on demersals"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="diveBG"/>
+    <Attribute AttributeName="Index" AttributeValue="13"/>
+    <Attribute AttributeName="Name" AttributeValue="Recreational fishery - charter / party"/>
+    <Attribute AttributeName="IsRec" AttributeValue="1"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="pseineBLF"/>
+    <Attribute AttributeName="Index" AttributeValue="14"/>
+    <Attribute AttributeName="Name" AttributeValue="Recreational fishery- private"/>
+    <Attribute AttributeName="IsRec" AttributeValue="1"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="cullPIN"/>
+    <Attribute AttributeName="Index" AttributeValue="15"/>
+    <Attribute AttributeName="Name" AttributeValue="Shrimp trawl"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="ptrawlNSH"/>
+    <Attribute AttributeName="Index" AttributeValue="16"/>
+    <Attribute AttributeName="Name" AttributeValue="Demersal trawl on benthopelagics"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="ptrawlOSH"/>
+    <Attribute AttributeName="Index" AttributeValue="17"/>
+    <Attribute AttributeName="Name" AttributeValue="Trap on demersals"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="dtrawlANC"/>
+    <Attribute AttributeName="Index" AttributeValue="18"/>
+    <Attribute AttributeName="Name" AttributeValue="New fishery"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="dtrawlBPF"/>
+    <Attribute AttributeName="Index" AttributeValue="19"/>
+    <Attribute AttributeName="Name" AttributeValue="New fishery"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="dtrawlBUT"/>
+    <Attribute AttributeName="Index" AttributeValue="20"/>
+    <Attribute AttributeName="Name" AttributeValue="New fishery"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="midwcZL"/>
+    <Attribute AttributeName="Index" AttributeValue="21"/>
+    <Attribute AttributeName="Name" AttributeValue="New fishery"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="trapMEN"/>
+    <Attribute AttributeName="Index" AttributeValue="22"/>
+    <Attribute AttributeName="Name" AttributeValue="New fishery"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="dlineMEN"/>
+    <Attribute AttributeName="Index" AttributeValue="23"/>
+    <Attribute AttributeName="Name" AttributeValue="New fishery"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="netMEN"/>
+    <Attribute AttributeName="Index" AttributeValue="24"/>
+    <Attribute AttributeName="Name" AttributeValue="New fishery"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="midwcNSH"/>
+    <Attribute AttributeName="Index" AttributeValue="25"/>
+    <Attribute AttributeName="Name" AttributeValue="New fishery"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="midwcOSH"/>
+    <Attribute AttributeName="Index" AttributeValue="26"/>
+    <Attribute AttributeName="Name" AttributeValue="New fishery"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+  <AttributeSubGroup AttributeGroupName="Fishery" AttributeDescription="The definition of a fishery">
+    <Attribute AttributeName="Code" AttributeValue="mowMA"/>
+    <Attribute AttributeName="Index" AttributeValue="27"/>
+    <Attribute AttributeName="Name" AttributeValue="New fishery"/>
+    <Attribute AttributeName="IsRec" AttributeValue="0"/>
+    <Attribute AttributeName="NumSubFleets" AttributeValue="1"/>
+  </AttributeSubGroup>
+</AttributeGroup>

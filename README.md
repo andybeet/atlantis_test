@@ -7,7 +7,11 @@
 
 <!-- badges: end -->
 
-Atlantis Neus file repository v1.5
+Atlantis Neus file repository version not decided upon yet
+
+Make git comments. make more comment
+
+We should also add some useful git commands for use on the command line
 
 Physics based on Doppio Roms model hindcast 2008-2010 downscaled to NEUS
 boxes.
@@ -31,16 +35,7 @@ Now includes fishing, last updated 20190917
     NeusFisheries\_v15\_5\_17\_19.csv -t C:.morse\_RM -d 20190916dta
     1\>1a.junk 2\>2a.junk
 
-  - Linux build: atlantisMerged -i RMinit4\_2019.nc 0 -o
-    atneus\_v15\_test2008hydro\_20180208.nc -r
-    at\_run\_neus\_v15\_RM\_scale\_0503.prm -f
-    at\_force\_neus\_v15\_DE\_LINUX\_RM\_newHydro\_highnuts.prm -p
-    at\_physics\_nuts\_neus\_v15\_DE\_eddys.prm -b
-    at\_biol\_neus\_v15\_scaled\_diet\_20181126\_2.prm -h
-    at\_harvest\_neus\_v15\_FC\_RG\_5\_16\_19.prm -e
-    at\_economics\_neus\_DE\_New.prm -s NeusGroups\_v15\_unix\_RM.csv -q
-    NeusFisheries\_v15\_5\_17\_19.csv -t /home/ryan/Git/atneus\_RM -d
-    20190626a 1\>1a.junk 2\>2a.junk
+Removed Linux run options
 
 t: location of local git folder
 
